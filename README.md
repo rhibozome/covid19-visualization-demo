@@ -12,3 +12,11 @@ The great thing about the code we write today is that it is fully reproducible a
 First download the file from here: https://covid.ourworldindata.org/data/owid-covid-data.csv
 
 Then, follow the instructions in my notebook from either Github or Google Colab. Make sure you install the Python dependencies from the requirements.txt file. 
+
+Unfortunately the visualizations don't render in the cached version of the notebook you can preview here but this is what they look like once you run it on your computer. The map will be interactive and you'll be able to use it like Google Maps!
+
+![Screenshot from 2023-02-25 23-00-52](https://user-images.githubusercontent.com/126368760/221397034-369660b7-5cf2-45fa-9783-e8f6b94bfed9.png)
+
+![Screenshot from 2023-02-25 23-03-47](https://user-images.githubusercontent.com/126368760/221397078-a6db0d2f-afe7-41f6-8b23-56eccdf437d1.png)
+
+![Screenshot from 2023-02-25 23-04-10](https://user-images.githubusercontent.com/126368760/221397097-a43c344e-bc97-4435-8a01-faa22505274f.png)
