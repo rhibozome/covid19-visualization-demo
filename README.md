@@ -19,4 +19,4 @@ Unfortunately the visualizations don't render in the cached version of the noteb
 
 ![Screenshot from 2023-02-25 23-03-47](https://user-images.githubusercontent.com/126368760/221397078-a6db0d2f-afe7-41f6-8b23-56eccdf437d1.png)
 
-![Screenshot from 2023-02-25 23-04-10](https://user-images.githubusercontent.com/126368760/221397097-a43c344e-bc97-4435-8a01-faa22505274f.png)
+![Screenshot from 2023-02-25 23-06-00](https://user-images.githubusercontent.com/126368760/221397148-82449bd5-174f-4808-abde-41475ba98ac3.png)
