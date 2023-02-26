@@ -5,13 +5,13 @@ Learning programming and data science can seem daunting but I’m going to illus
 
 Let’s get started!
 
-First, we’ll be analyzing current COVID-19 confirmed deaths. In order to practice ethical data science it’s important to disclose where our dataset is coming from. In this case, we’ll be using the COVID-19 confirmed deaths dataset from Our World in Data (OWID), a scientific online publication associated with the charity Global Change Data Lab and the University of Oxford. It’s important to note this dataset likely underestimates the total deaths resulting from COVID-19 infection. Sometimes, even with disclosing a source, data can be easily manipulated, as Jeff Leek, former co-director of the Johns Hopkins Data Science Lab pointed out in this blog post. 
+First, we’ll be analyzing current COVID-19 confirmed deaths. In order to practice ethical data science it’s important to disclose where our dataset is coming from. In this case, we’ll be using the COVID-19 confirmed deaths dataset from Our World in Data (OWID), a scientific online publication associated with the charity Global Change Data Lab and the University of Oxford. It’s important to note this dataset likely underestimates the total deaths resulting from COVID-19 infection. Sometimes, even with disclosing a source, data can be easily manipulated, as Jeff Leek, former co-director of the Johns Hopkins Data Science Lab pointed out in this [blog post](https://simplystatistics.org/posts/2012-11-26-the-statisticians-at-fox-news-use-classic-and-novel-graphical-techniques-to-lead-with-data/). 
 
 The great thing about the code we write today is that it is fully reproducible and open-source! Anyone with a computer and internet connection can access the Google Colab notebook I’ll link to at the end of this article. 
 
 First download the file from here: https://covid.ourworldindata.org/data/owid-covid-data.csv
 
-Then, follow the instructions in my notebook from either Github or Google Colab. Make sure you install the Python dependencies from the requirements.txt file. 
+Then, follow the instructions in the notebook in this repo. Make sure you install the Python dependencies from the requirements.txt file. 
 
 Unfortunately the visualizations don't render in the cached version of the notebook you can preview here but this is what they look like once you run it on your computer. The map will be interactive and you'll be able to use it like Google Maps!
 
